@@ -1,5 +1,10 @@
 """
-high level support for doing this and that.
+This Python script publishes the status of Hisense air conditioner 
+with wifi module AEHW4A1 to a MQTT broker and sends commands to the 
+AEHW4A1 which are subsribed from the MQTT broker.
+
+This script uses the module pyaehw4a1 from Davide Varricchio. 
+Many thanks to Dab´vide for his work.
 """
 import asyncio
 import configparser
@@ -53,7 +58,7 @@ class Config:
 
 
 class AirConditioners:
-    """x"""
+    """Establish the connection to AEHW4A1"""
 
     def __init__(self, air_conditioners, air_conditioner_ips):
         """Init AC connections"""
