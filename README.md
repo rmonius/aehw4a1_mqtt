@@ -19,7 +19,7 @@ MQTT client for for Hisense AEH-W4A1 wifi module with multi split support.
 The section "[messages]" allows to select the status messeges which shall be 
 published to the MQTT broker. All available status messages are already included in the ini file.
 You need only to uncomment the messages for publishing.
-If all messages ar commented in the ini file, the whole JSON received from aehw4a1 will be published
+If all messages are commented in the ini file, the whole JSON received from aehw4a1 will be published.
 
     [messages]
     # Uncommend individuale lines to publish messages only. 
