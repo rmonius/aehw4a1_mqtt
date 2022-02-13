@@ -5,3 +5,4 @@ Dockerfile
 launch.json
 aehw4a1_mqtt-workspace
 aehw4a1_mqtt.log
+.DS_Store
