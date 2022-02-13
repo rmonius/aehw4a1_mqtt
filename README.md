@@ -40,4 +40,4 @@ If all messages are commented in the ini file, the whole JSON received from aehw
 
 ## Based on pyaehw4a1
 This script uses the module [pyaehw4a1](https://github.com/bannhead/pyaehw4a1) from Davide Varricchio. 
-Many thanks to Dabvide for his work.
+Many thanks to Dabvide for his great work.
