@@ -1,0 +1,5 @@
+venv
+docker-compose.yml
+Dockerfile
+.vscode
+launch.json
