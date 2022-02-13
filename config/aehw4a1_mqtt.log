@@ -1702,3 +1702,68 @@
 2022-02-13 14:29:13,319 - __main__ - INFO - Message direction_status will be published to mqtt broker.
 2022-02-13 14:29:13,319 - __main__ - INFO - Message indoor_temperature_setting will be published to mqtt broker.
 2022-02-13 14:29:13,319 - __main__ - INFO - Message indoor_temperature_status will be published to mqtt broker.
+2022-02-13 15:00:44,547 - __main__ - INFO - *** HISENSE MQTT CLIENT STARTED ***
+2022-02-13 15:00:44,547 - __main__ - INFO - Loglevel set to INFO
+2022-02-13 15:00:44,555 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:44,556 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:44,657 - __main__ - INFO - Message wind_status will be published to mqtt broker.
+2022-02-13 15:00:44,658 - __main__ - INFO - Message sleep_status will be published to mqtt broker.
+2022-02-13 15:00:44,658 - __main__ - INFO - Message mode_status will be published to mqtt broker.
+2022-02-13 15:00:44,658 - __main__ - INFO - Message run_status will be published to mqtt broker.
+2022-02-13 15:00:44,658 - __main__ - INFO - Message direction_status will be published to mqtt broker.
+2022-02-13 15:00:44,658 - __main__ - INFO - Message indoor_temperature_setting will be published to mqtt broker.
+2022-02-13 15:00:44,658 - __main__ - INFO - Message indoor_temperature_status will be published to mqtt broker.
+2022-02-13 15:00:45,569 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:45,569 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:46,582 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:46,583 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:47,595 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:47,596 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:48,614 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:48,615 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:49,625 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:49,626 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:50,639 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:50,640 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:51,651 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:51,652 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:52,663 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:52,664 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:00:53,669 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:00:53,669 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:32,468 - __main__ - INFO - *** HISENSE MQTT CLIENT STARTED ***
+2022-02-13 15:01:32,468 - __main__ - INFO - Loglevel set to INFO
+2022-02-13 15:01:32,479 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:32,480 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:32,578 - __main__ - INFO - Message wind_status will be published to mqtt broker.
+2022-02-13 15:01:32,578 - __main__ - INFO - Message sleep_status will be published to mqtt broker.
+2022-02-13 15:01:32,578 - __main__ - INFO - Message mode_status will be published to mqtt broker.
+2022-02-13 15:01:32,578 - __main__ - INFO - Message run_status will be published to mqtt broker.
+2022-02-13 15:01:32,578 - __main__ - INFO - Message direction_status will be published to mqtt broker.
+2022-02-13 15:01:32,578 - __main__ - INFO - Message indoor_temperature_setting will be published to mqtt broker.
+2022-02-13 15:01:32,578 - __main__ - INFO - Message indoor_temperature_status will be published to mqtt broker.
+2022-02-13 15:01:33,493 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:33,493 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:34,504 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:34,505 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:35,521 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:35,522 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:36,532 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:36,533 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:37,543 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:37,543 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:38,561 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:38,561 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:01:39,573 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:01:39,574 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:03:02,025 - __main__ - INFO - *** HISENSE MQTT CLIENT STARTED ***
+2022-02-13 15:03:02,025 - __main__ - INFO - Loglevel set to INFO
+2022-02-13 15:03:02,035 - __main__ - INFO - Client connected to MQTT broker 192.168.1.200:1883 with return code 0
+2022-02-13 15:03:02,035 - __main__ - INFO - Client subscribed topics: [['/home/ac/bedroom/command', 0], ['/home/ac/livingroom/command', 0], ['/home/ac/chris/command', 0]]
+2022-02-13 15:03:02,138 - __main__ - INFO - Message wind_status will be published to mqtt broker.
+2022-02-13 15:03:02,138 - __main__ - INFO - Message sleep_status will be published to mqtt broker.
+2022-02-13 15:03:02,138 - __main__ - INFO - Message mode_status will be published to mqtt broker.
+2022-02-13 15:03:02,138 - __main__ - INFO - Message run_status will be published to mqtt broker.
+2022-02-13 15:03:02,138 - __main__ - INFO - Message direction_status will be published to mqtt broker.
+2022-02-13 15:03:02,138 - __main__ - INFO - Message indoor_temperature_setting will be published to mqtt broker.
+2022-02-13 15:03:02,138 - __main__ - INFO - Message indoor_temperature_status will be published to mqtt broker.
