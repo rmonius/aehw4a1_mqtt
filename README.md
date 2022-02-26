@@ -15,8 +15,8 @@ MQTT client for for Hisense AEH-W4A1 wifi module with multi split support.
     livingroom = 192.168.1.100
     chris = 192.168.1.81 
 
-### Selection of publishes status messages
-The section "[messages]" allows to select the status messeges which shall be 
+### Selection of status messages to be published to MQTT broker
+The section "[messages]" allows to select the status messages which shall be 
 published to the MQTT broker. All available status messages are already included in the ini file.
 You need only to uncomment the messages for publishing.
 If all messages are commented in the ini file, the whole JSON received from aehw4a1 will be published.
@@ -40,4 +40,4 @@ If all messages are commented in the ini file, the whole JSON received from aehw
 
 ## Based on pyaehw4a1
 This script uses the module [pyaehw4a1](https://github.com/bannhead/pyaehw4a1) from Davide Varricchio. 
-Many thanks to Dabvide for his great work.
+Many thanks to Davide for his great work.
