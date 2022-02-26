@@ -1,0 +1,44 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "2e7b4433c6a288216090bc4434d2a7d9a3537579a78c9ab99aa1ff62e31f5f32"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "ifaddr": {
+            "hashes": [
+                "sha256:1f9e8a6ca6f16db5a37d3356f07b6e52344f6f9f7e806d618537731669eb1a94",
+                "sha256:d1f603952f0a71c9ab4e705754511e4e03b02565bc4cec7188ad6415ff534cd3"
+            ],
+            "index": "pypi",
+            "version": "==0.1.7"
+        },
+        "paho-mqtt": {
+            "hashes": [
+                "sha256:2a8291c81623aec00372b5a85558a372c747cbca8e9934dfe218638b8eefc26f"
+            ],
+            "index": "pypi",
+            "version": "==1.6.1"
+        },
+        "pyaehw4a1": {
+            "hashes": [
+                "sha256:170221762f4a7da4ade5446ff12f8783380ba9d063a1e5c763eb721febb42137",
+                "sha256:f7295536688eae19c7ef4b9e132f9d2a7ef75a6786a3067bfd6e21839bb732ac"
+            ],
+            "index": "pypi",
+            "version": "==0.3.9"
+        }
+    },
+    "develop": {}
+}
